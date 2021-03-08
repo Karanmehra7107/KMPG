@@ -1,4 +1,6 @@
 # KMPG Internship 2021
+![KPMG_logo svg](https://user-images.githubusercontent.com/62024355/110340421-41d23900-804f-11eb-86be-424df62de227.png)
+
 
 Data Quality Assessment
 
