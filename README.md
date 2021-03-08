@@ -28,3 +28,30 @@ Problem statment: Develop a dashboard that we can present to the client at our n
 ![2021-01-27 (2)](https://user-images.githubusercontent.com/62024355/110337289-c327cc80-804b-11eb-953b-8bb5f7f93179.png)
 
 ![2021-01-27](https://user-images.githubusercontent.com/62024355/110337291-c3c06300-804b-11eb-893e-a3b4c07b6532.png)
+
+
+
+
+
+
+## Team
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fs4h7fZ/Pics-Art-05-30-07-58-11.jpg" alt="PicsArt_05-30-07.58.11" border="1">
+
+[Karan Mehra](https://karanmehra7107.github.io/My-Portfolio/index.html)
+
+## License
+[![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
+
+Copyright 2020 Karan Mehra
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
