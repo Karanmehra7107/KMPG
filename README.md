@@ -1,5 +1,15 @@
 # KMPG Internship 2021
 
+Data Quality Assessment
+Data Insights
+Data Insights and Presentation
+
+
+__Certificate of Completion__
+
+![image](https://user-images.githubusercontent.com/62024355/110339816-96c17f80-804e-11eb-8b0e-9e96e4f6b496.png)
+
+
 __Data__
 
 Refer to excel file: ![image](https://user-images.githubusercontent.com/62024355/110338823-76dd8c00-804d-11eb-9f56-71792c014bf4.png)
